@@ -1,4 +1,4 @@
-print("welcome to python deliveries")
+print("welcome to python ")
 size=input("what size do you want? S, M, or L")
 bill=0
 if size == "S":
